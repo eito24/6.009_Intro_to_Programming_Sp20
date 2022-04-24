@@ -1,4 +1,4 @@
-# 6.009 (Python Code from Fundamentals of Programming Spring 2020)
+# [6.009](http://student.mit.edu/catalog/search.cgi?search=6.009) (Fundamentals of Programming Spring 2020)
 
 Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion. Lab component consists of software design and implementation. </br>
 
